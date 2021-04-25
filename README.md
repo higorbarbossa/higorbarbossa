@@ -13,7 +13,7 @@ Em meu tempo livre gosto de de jogar, tocar violão e ukulele.
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=higorbarbossa&show_icons=true" alt="higorbarbossa" /> 
 </p>
-<hr>
+<p><hr></p>
 <p>
     <img src="https://komarev.com/ghpvc/?username=higorbarbossa" alt="higorbarbossa" />
 </p>
